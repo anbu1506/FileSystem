@@ -1,4 +1,4 @@
-# FileSyste
+# FileSystem
 filesystem for android using sqlite and kotlin
 
 maven-------------------------------------------------------
